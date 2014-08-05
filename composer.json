@@ -1,0 +1,14 @@
+{
+    "name": "gnugat/sf2-emptier",
+    "license": "MIT",
+    "type": "project",
+    "description": "The \"Symfony Emptier Edition\" distribution",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.17",
+
+        "symfony/symfony": "~2.4"
+    }
+}
